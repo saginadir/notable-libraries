@@ -9,3 +9,5 @@ hygen is the simple, fast, and scalable code generator that lives in your projec
 [MDXC](https://github.com/jamesknelson/mdxc)  
 MDXC is a tool to convert Markdown into React Components
 
+[BRPC](https://github.com/brpc/braft/tree/master/example) - [Braft](https://github.com/brpc/braft/tree/master/example)  
+Baidu Districtuted Computing in C++
