@@ -1,6 +1,23 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-02-19
+
+[proton-native](https://github.com/kusti8/proton-native)  
+A React environment for cross platform native desktop apps
+
+[ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) 
+PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing"
+
+[icecream](https://github.com/gruns/icecream) 
+Python log debugger: Sweet and creamy print debugging.
+
+[caesonia](https://github.com/vedetta-com/caesonia) 
+OpenBSD Email Service
+
+[deepstate](https://github.com/trailofbits/deepstate) 
+DeepState is a framework that provides C and C++ developers with a common interface to various symbolic execution and fuzzing engines. Users can write one test harness using a Google Test-like API, then execute it using multiple backends without having to learn the complexities of the underlying engines. It supports writing unit tests and API sequence tests, as well as automatic test generation. Read more about the goals and design of DeepState in our [paper](https://www.cefns.nau.edu/~adg326/bar18.pdf).
+
 ## 2017-02-15
 
 [TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions)  
