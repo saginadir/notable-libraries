@@ -3,7 +3,7 @@ A repo that only lists notable libraries that were trending by day.
 
 ## 2017-02-21
 
-[/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging)  
+[CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging)  
 Chrome extension and Express server that exploits keylogging abilities of CSS.
 
 [gitleaks](https://github.com/zricethezav/gitleaks)  
