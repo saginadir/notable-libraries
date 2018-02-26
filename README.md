@@ -1,6 +1,32 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-02-26 
+
+[sicp-course](https://github.com/creactiviti/sicp-course) 
+UC Berkley Course: Structure and Interpretation of Computer Programs  
+
+[xg2xg](https://github.com/jhuangtw-dev/xg2xg) 
+A handy lookup table of similar technology and services to help ex-googlers survive the real world :) pull-requests very welcomed. 
+
+[headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) 
+Distributed crawler powered by Headless Chrome 
+
+[swiftfmt](https://github.com/kishikawakatsumi/swiftfmt) 
+A tool for formatting Swift code according to style guidelines. 
+
+[gifski-app](https://github.com/sindresorhus/gifski-app) 
+Convert videos to high-quality GIFs on your Mac 
+
+[requests-html](https://github.com/kennethreitz/requests-html) 
+This Python library intends to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible. 
+
+[DeepPavlov](https://github.com/deepmipt/DeepPavlov) 
+An open source library for building end-to-end dialog systems and training chatbots. 
+
+[goimghdr](https://github.com/corona10/goimghdr) 
+The imghdr module determines the type of image contained in a file for go 
+
 ## 2017-02-21
 
 [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging)  
