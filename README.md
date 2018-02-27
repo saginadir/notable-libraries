@@ -70,7 +70,7 @@ Automerge is a library of data structures for building collaborative application
 
 ## 2017-02-13 
 
-[inspector](https://github.com/inspector-repl/inspector)  
+[inspector](https://github.com/inspector-repl/inspector)  
 Inspector - A drop-anywhere C++ REPL  
 Allows to inject a fully-functional C++17 REPL into running, compiled programs that can access your program state and offers features like code-completion and syntax highlighting.
 
