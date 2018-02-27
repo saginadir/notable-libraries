@@ -62,7 +62,7 @@ DeepState is a framework that provides C and C++ developers with a common interf
 
 ## 2017-02-15
 
-[TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions)  
+[TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions)  
 Tensor Comprehensions (TC) is a fully-functional C++ library to *automatically* synthesize high-performance machine learning kernels using [Halide](https://github.com/halide/Halide), [ISL](http://isl.gforge.inria.fr/) and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and pybind11 bindings for use with python. We provide more details in our paper on [arXiv](https://arxiv.org/abs/1802.04730).
 
 [automerge](https://github.com/automerge/automerge)  
