@@ -1,6 +1,14 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-02-27 
+
+[propelml](https://github.com/propelml/propel) 
+Propel provides a GPU-backed numpy-like infrastructure for scientific computing in JavaScript. JavaScript is a fast, dynamic language which, we think, could act as an ideal workflow for scientific programmers of all sorts.  
+
+[MoltenVK](https://github.com/KhronosGroup/MoltenVK) 
+MoltenVK is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan compatibility to iOS and macOS.  
+
 ## 2017-02-26 
 
 [sicp-course](https://github.com/creactiviti/sicp-course) 
