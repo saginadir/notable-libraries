@@ -1,6 +1,23 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-02-28 
+
+[os01](https://github.com/tuhdo/os01)  
+Bootstrap yourself to write an OS from scratch. A book for self-learner.
+
+[flutter](https://github.com/flutter/flutter)  
+Flutter makes it easy and fast to build beautiful mobile apps in Dart.
+
+[dep](https://github.com/golang/dep)  
+Go dependency management tool
+
+[loukoum](https://github.com/ulule/loukoum)  
+Loukoum is a simple SQL Query Builder in Golang
+
+[paip-lisp](https://github.com/norvig/paip-lisp)  
+This is the repository for the book Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp by Peter Norvig (1992)
+
 ## 2017-02-27 
 
 [propelml](https://github.com/propelml/propel)  
