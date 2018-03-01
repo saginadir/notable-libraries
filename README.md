@@ -1,6 +1,11 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-03-01
+
+[parrot](https://github.com/americanexpress/parrot)  
+Parrot is a set of tools that allow you to create HTTP mocks and organize them into scenarios in order to develop your app against different sets of data. We have implemented all of Parrot's functionality in JavaScript, but scenarios are a general specification that can be implemented in any language.
+
 ## 2017-02-28 
 
 [os01](https://github.com/tuhdo/os01)  
