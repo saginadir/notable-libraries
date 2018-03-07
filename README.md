@@ -1,6 +1,35 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-03-07
+
+[swift-nio](https://github.com/apple/swift-nio)  
+Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+
+[gopher-reading-list](https://github.com/enocom/gopher-reading-list)  
+A curated selection of blog posts on Go
+
+[slack-term](https://github.com/erroneousboat/slack-term)  
+Slack client for your terminal
+
+[filepond](https://github.com/pqina/filepond)  
+A (21 KB gzipped) JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+
+[didact](https://github.com/hexacta/didact)  
+A DIY guide to build your own React https://engineering.hexacta.com/didac…
+
+[rematch](https://github.com/rematch/rematch)  
+Rematch is Redux best practices without the boilerplate. No more action types, action creators, switch statements or thunks.
+
+[go-internals](https://github.com/teh-cmc/go-internals)  
+go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
+
+[grmon](https://github.com/bcicen/grmon)  
+Command line monitoring for goroutines
+
+[continuable](https://github.com/Naios/continuable)  
+C++14 allocation aware futures (supporting then, error handling, co_await and compositions)
+
 ## 2017-03-01
 
 [parrot](https://github.com/americanexpress/parrot)  
