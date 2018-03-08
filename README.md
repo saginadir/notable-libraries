@@ -1,6 +1,17 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-03-08
+
+[lucid](https://github.com/tensorflow/lucid)  
+A collection of infrastructure and tools for research in neural network interpretability. [Video Explanation](https://www.youtube.com/watch?v=pVgC-7QTr40)
+
+[skaffold](https://github.com/GoogleCloudPlatform/skaffold)  
+Easy and Repeatable Kubernetes Development
+
+[xray](https://github.com/atom/xray)  
+An experimental next-generation Electron-based text editor
+
 ## 2017-03-07
 
 [swift-nio](https://github.com/apple/swift-nio)  
