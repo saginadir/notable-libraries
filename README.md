@@ -1,6 +1,23 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2017-20-08
+
+[emitter](https://github.com/emitter-io/emitter)  
+High performance, distributed and low latency publish-subscribe platform.
+
+[gitkube](https://github.com/hasura/gitkube)  
+Gitkube: Build and deploy docker images to Kubernetes using `git push`
+
+[service-fabric](https://github.com/Microsoft/service-fabric)  
+Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
+
+[noteshrink](https://github.com/mzucker/noteshrink) ([Check the research diary](https://mzucker.github.io/2016/09/20/noteshrink.html))  
+Convert scans of handwritten notes to beautiful, compact PDFs
+
+[bitwise](https://github.com/pervognsen/bitwise)  
+Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+
 ## 2017-03-08
 
 [lucid](https://github.com/tensorflow/lucid)  
