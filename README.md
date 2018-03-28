@@ -6,7 +6,7 @@ A repo that only lists notable libraries that were trending by day.
 [parrot.live](https://github.com/hugomd/parrot.live)  
 A silly project that plays a parrot "gif" like in the terminal through streaming ascii text.
 
-[youtube-terminal](hhttps://github.com/mathiasvr/youtube-terminal)  
+[youtube-terminal](https://github.com/mathiasvr/youtube-terminal)  
 Stream YouTube videos as ascii art in the terminal.
 
 [contain-facebook](https://github.com/mozilla/contain-facebook)  
