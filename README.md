@@ -1,6 +1,17 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-04-28
+
+[parrot.live](https://github.com/hugomd/parrot.live)  
+A silly project that plays a parrot "gif" like in the terminal through streaming ascii text.
+
+[youtube-terminal](hhttps://github.com/mathiasvr/youtube-terminal)  
+Stream YouTube videos as ascii art in the terminal.
+
+[contain-facebook](https://github.com/mozilla/contain-facebook)  
+Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+
 ## 2018-04-27
 
 [Peek](https://github.com/shaps80/Peek)  
