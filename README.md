@@ -1,7 +1,21 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
-## 2018-04-28
+## 2018-04-09
+
+[tfjs](https://github.com/tensorflow/tfjs)  
+A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+
+[person-blocker](https://github.com/minimaxir/person-blocker)  
+Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+
+[zstd](https://github.com/facebook/zstd)  
+Zstandard - Fast real-time compression algorithm
+
+[mercari-solution](https://github.com/pjankiewicz/mercari-solution)  
+A solution that offers sellers to set prices
+
+## 2018-03-28
 
 [parrot.live](https://github.com/hugomd/parrot.live)  
 A silly project that plays a parrot "gif" like in the terminal through streaming ascii text.
@@ -12,7 +26,7 @@ Stream YouTube videos as ascii art in the terminal.
 [contain-facebook](https://github.com/mozilla/contain-facebook)  
 Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
 
-## 2018-04-27
+## 2018-03-27
 
 [Peek](https://github.com/shaps80/Peek)  
 All new design. Inspect your iOS application at runtime.
