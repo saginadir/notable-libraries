@@ -1,6 +1,32 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-04-11
+
+[deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization)  
+Zstandard - Fast real-time compression algorithm
+
+[jsonstore](https://github.com/bluzi/jsonstore)  
+Store your data for free by sending simple HTTP requests 
+
+[sistine](https://github.com/bijection/sistine)  
+Turn a MacBook into a Touchscreen with $1 of Hardware
+
+[dqlite](https://github.com/CanonicalLtd/dqlite)  
+Distributed SQLite for Go application
+
+[textql](https://github.com/dinedal/textql)  
+Execute SQL against structured text like CSV or TSV
+
+[tinn](https://github.com/glouw/tinn)  
+Tinn (Tiny Neural Network) is a 200 line dependency free neural network library written in C99.
+
+[semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)  
+Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
+
+[bed](https://github.com/itchyny/bed)  
+Binary editor written in Go
+
 ## 2018-04-09
 
 [tfjs](https://github.com/tensorflow/tfjs)  
