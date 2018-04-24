@@ -1,6 +1,26 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-04-24
+
+[kaniko](https://github.com/GoogleContainerTools/kaniko)  
+kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
+
+[Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena)  
+Quake III Arena GPL Source Release
+
+[foundationdb](https://github.com/apple/foundationdb)  
+FoundationDB - the open source, distributed, transactional key-value store https://www.foundationdb.org
+
+[picojs](https://github.com/tehnokv/picojs)  
+A face detection library in 200 lines of JavaScript
+
+[lgo](https://github.com/yunabe/)  
+Go (golang) Jupyter Notebook kernel and an interactive REPL
+
+[tidis](https://github.com/yongman/tidis)  
+Distributed NoSQL database, Redis protocol compatible using tikv as backend
+
 ## 2018-04-14
 
 [dubstep-data](https://github.com/benjojo/dubstep-data)  
