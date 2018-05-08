@@ -1,6 +1,32 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-05-08
+
+[css-blocks](https://github.com/Microsoft/vcpkg)  
+Vcpkg helps you manage C and C++ libraries on Windows, Linux and MacOS. This tool and ecosystem are currently in a preview state; your involvement is vital to its success!
+
+[css-blocks](https://github.com/linkedin/css-blocks)  
+CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
+
+[minio](https://github.com/minio/minio)  
+Minio is an open source object storage server compatible with Amazon S3 APIs 
+
+[tui.calendar](https://github.com/nhnent/tui.calendar)  
+A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
+
+[ow](https://github.com/sindresorhus/ow)  
+Function argument validation for humans
+
+[kanban-app](https://github.com/huytd/kanban-app)  
+Kanban board built with Rust and Elm
+
+[stocks](https://github.com/toddwschneider/stocks)  
+A free, lightweight, blazing-fast static page to get stock quotes using the IEX API
+
+[monkey](https://github.com/guardicore/monkey)  
+Infection Monkey - An automated pentest tool
+
 ## 2018-04-24
 
 [kaniko](https://github.com/GoogleContainerTools/kaniko)  
