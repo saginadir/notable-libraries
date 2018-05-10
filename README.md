@@ -1,6 +1,20 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-05-10
+
+[webview](https://github.com/zserge/webview)  
+Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
+
+[PRNet](https://github.com/YadiraF/PRNet)  
+The source code of 'Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network'. [https://arxiv.org/abs/1803.07835](https://arxiv.org/abs/1803.07835)
+
+[Zpng](https://github.com/catid/Zpng)  
+Better lossless compression than PNG with a simpler algorithm
+
+[cosmos](https://github.com/OpenGenus/cosmos)  
+Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter
+
 ## 2018-05-08
 
 [css-blocks](https://github.com/Microsoft/vcpkg)  
