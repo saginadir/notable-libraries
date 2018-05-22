@@ -1,6 +1,14 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-05-22
+
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)  
+Repository that summarized a place to build different projects to improve your progamming skills
+
+[isomorphic-git]( https://github.com/isomorphic-git/isomorphic-git)  
+A pure JavaScript implementation of git for node and browsers!
+
 ## 2018-05-10
 
 [webview](https://github.com/zserge/webview)  
