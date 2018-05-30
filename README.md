@@ -24,9 +24,6 @@ c++ toolkit for rapid development of live graphical apps and games
 [thanos](https://github.com/improbable-eng/thanos)  
 Highly available Prometheus setup with long term storage capabilities.
 
-[mud](https://github.com/hugoam/mud)  
-c++ toolkit for rapid development of live graphical apps and games
-
 ## 2018-05-22
 
 [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)  
