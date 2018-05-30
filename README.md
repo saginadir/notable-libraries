@@ -1,6 +1,32 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-05-30
+
+[gitbase](https://github.com/src-d/gitbase)  
+SQL interface to Git repositories, written in Go.
+
+[Crunch](https://github.com/chrissimpkins/Crunch)  
+Insane(ly slow but wicked good) PNG image optimization
+
+[signale](https://github.com/klauscfhq/signale)  
+Hackable console logger
+
+[react-native-dom](https://github.com/vincentriemer/react-native-dom)  
+An experimental, comprehensive port of React Native to the web. 
+
+[easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)  
+Insane(ly slow but wicked good) PNG image optimization
+
+[mud](https://github.com/hugoam/mud)  
+c++ toolkit for rapid development of live graphical apps and games
+
+[thanos](https://github.com/improbable-eng/thanos)  
+Highly available Prometheus setup with long term storage capabilities.
+
+[mud](https://github.com/hugoam/mud)  
+c++ toolkit for rapid development of live graphical apps and games
+
 ## 2018-05-22
 
 [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)  
