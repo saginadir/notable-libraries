@@ -1,6 +1,29 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-06-03
+
+[opa](https://github.com/open-policy-agent/opa)  
+An open source, general-purpose policy engine. 
+
+[marble](https://github.com/marblejs/marble)  
+Marble.js - functional reactive HTTP middleware framework built on top of Node.js platform, TypeScript and RxJS library.
+
+[fraql](https://github.com/smooth-code/fraql)  
+GraphQL fragments made simple ⚡️ 
+
+[mint](https://github.com/mint-lang/mint)  
+🍃 A refreshing programming language for the front-end web.
+
+[deno](https://github.com/ry/deno)  
+A secure TypeScript runtime on V8
+
+[maid](https://github.com/egoist/maid)  
+Markdown driven task runner. 
+
+[wtf](https://github.com/senorprogrammer/wtf)  
+A personal terminal-based dashboard utility, designed for displaying infrequently-needed, but very important, daily data.
+
 ## 2018-05-30
 
 [gitbase](https://github.com/src-d/gitbase)  
