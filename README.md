@@ -1,6 +1,14 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-06-10
+
+[raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)  
+Learning operating system development using Linux kernel and Raspberry Pi
+
+[littleboss](https://github.com/crawshaw/littleboss)  
+A Go package, littleboss lets you turn your program into a a self-supervising binary. It starts itself as a child process, monitors its life cycle, reloads it if it exits, and can be instructed to replace it with a new binary.
+
 ## 2018-06-03
 
 [opa](https://github.com/open-policy-agent/opa)  
