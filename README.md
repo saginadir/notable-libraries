@@ -1,6 +1,11 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-06-12
+
+[Sonar](https://github.com/facebook/Sonar)  
+A desktop debugging platform for mobile developers. https://fbsonar.com
+
 ## 2018-06-10
 
 [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)  
