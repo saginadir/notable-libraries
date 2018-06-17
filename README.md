@@ -3,6 +3,17 @@ A repo that only lists notable libraries that were trending by day.
 
 ## 2018-06-12
 
+[fo](https://github.com/albrow/fo)  
+An experimental language which adds functional programming features to Go. 
+
+[Dragonfly](https://github.com/alibaba/Dragonfly)  
+Dragonfly is an intelligent P2P based file distribution system.
+
+[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
+📖 A collection of pure bash alternatives to external processes.
+
+## 2018-06-12
+
 [Sonar](https://github.com/facebook/Sonar)  
 A desktop debugging platform for mobile developers. https://fbsonar.com
 
