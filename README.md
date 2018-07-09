@@ -1,6 +1,44 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-07-09
+
+[DensePose](https://github.com/facebookresearch/DensePose)  
+A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body http://densepose.org
+
+[pulumi](https://github.com/pulumi/pulumi)  
+A multi-language, multi-cloud development platform
+
+[BOLT](https://github.com/facebookincubator/BOLT)  
+Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
+
+[pollyjs](https://github.com/Netflix/pollyjs)  
+Record, Replay, and Stub HTTP Interactions. https://netflix.github.io/pollyjs
+
+[spritejs](https://github.com/spritejs/spritejs)  
+A cross-platform lightweight 2D render object model. http://spritejs.org
+
+[tree-to-string](https://github.com/mafintosh/tree-to-string)  
+Convert a tree structure into a human friendly string
+
+[apollo-cli](https://github.com/apollographql/apollo-cli)  
+✏️ Command line tool for development and production Apollo workflows https://apollographql.com
+
+[NLP-progress](https://github.com/sebastianruder/NLP-progress)  
+Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+
+[gluon](https://github.com/gluon-lang/gluon)  
+A static, type inferred and embeddable language written in Rust. http://gluon-lang.org
+
+[demo2program](https://github.com/shaohua0116/demo2program)  
+An official TensorFlow implementation of "Neural Program Synthesis from Diverse Demonstration Videos" (ICML 2018) by Shao-Hua Sun, Hyeonwoo Noh, Sriram Somasundaram, and Joseph J. Lim
+
+[gravity](https://github.com/marcobambini/gravity)  
+Gravity Programming Language http://gravity-lang.org
+
+[worker-threads-pool](https://github.com/watson/worker-threads-pool)  
+Easily manage a pool of Node.js Worker Threads
+
 ## 2018-06-12
 
 [fo](https://github.com/albrow/fo)  
