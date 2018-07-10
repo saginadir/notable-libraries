@@ -1,6 +1,32 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-07-10
+
+[scalable_agent](https://github.com/deepmind/scalable_agent)  
+A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
+
+[mkcert](https://github.com/FiloSottile/mkcert)  
+mkcert is a simple tool for making locally-trusted development certificates. It requires no configuration.
+
+[bit](https://github.com/teambit/bit)  
+Easily share code between projects with your team. https://bitsrc.io
+
+[darts](https://github.com/quark0/darts)  
+Differentiable architecture search for convolutional and recurrent networks https://arxiv.org/abs/1806.09055
+
+[mace](https://github.com/XiaoMi/mace)  
+MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
+
+[sgan](https://github.com/agrimgupta92/sgan)  
+Code for "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks", Gupta et al, CVPR 2018
+
+[sg2im](https://github.com/google/sg2im)  
+Code for "Image Generation from Scene Graphs", Johnson et al, CVPR 2018
+
+[gcsf](https://github.com/harababurel/gcsf)  
+a FUSE file system based on Google Drive
+
 ## 2018-07-09
 
 [DensePose](https://github.com/facebookresearch/DensePose)  
