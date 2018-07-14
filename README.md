@@ -1,6 +1,23 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-07-14
+
+[termtosvg](https://github.com/nbedos/termtosvg)  
+Record terminal sessions as SVG animations
+
+[vue-patterns](https://github.com/learn-vuejs/vue-patterns)  
+Useful Vue patterns, techniques, tips and tricks and helpful curated links.
+
+[itty-bitty](https://github.com/alcor/itty-bitty)  
+Itty.bitty is a tool to create links that contain small sites http://itty.bitty.site
+
+[librg](https://github.com/librg/librg)  
+🚀 Build simple and fast cross-platform multiplayer
+
+[httpu](https://github.com/hazbo/httpu)  
+The terminal-first http client
+
 ## 2018-07-10
 
 [scalable_agent](https://github.com/deepmind/scalable_agent)  
