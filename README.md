@@ -1,6 +1,32 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-07-15
+
+[robosat](https://github.com/mapbox/robosat)  
+Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water
+
+[glow](https://github.com/openai/glow)  
+Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
+
+[noise](https://github.com/perlin-network/noise)  
+A decentralized P2P networking stack written in Go.
+
+[cheat.sh](https://github.com/chubin/cheat.sh)  
+the only cheat sheet you need https://cheat.sh/
+
+[fastpack](https://github.com/fastpack/fastpack)  
+Pack JS code fast & easy http://fastpack.io
+
+[gaia](https://github.com/gaia-pipeline/gaia)  
+Build powerful pipelines in any programming language.
+
+[xar](https://github.com/facebookincubator/xar)  
+XAR lets you package many files into a single self-contained executable file. This makes it easy to distribute and install.
+
+[libaco](https://github.com/hnes/libaco)  
+A blazing fast and lightweight C asymmetric coroutine library 💎 ⛅🚀⛅🌞
+
 ## 2018-07-14
 
 [termtosvg](https://github.com/nbedos/termtosvg)  
