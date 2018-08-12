@@ -1,6 +1,11 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-08-12
+
+[attrs](https://github.com/python-attrs/attrs)
+Python Classes Without Boilerplate - a solution for having struct like structures in Python
+
 ## 2018-07-15
 
 [robosat](https://github.com/mapbox/robosat)  
