@@ -1,6 +1,110 @@
 # notable-libraries
 A repo that only lists notable libraries that were trending by day.
 
+## 2018-09-02
+
+[graphql-engine](https://github.com/hasura/graphql-engine)  
+Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control https://hasura.io
+
+[v8n](https://github.com/imbrn/v8n)  
+☑️ JavaScript fluent validation library https://imbrn.github.io/v8n
+
+[pax](https://github.com/nathan/pax)  
+The fastest JavaScript bundler in the galaxy. https://pax.js.org/
+
+[evergreen](https://github.com/segmentio/evergreen)  
+🌲 Evergreen React UI Framework by Segment https://evergreen.surge.sh/
+
+[terminalizer](https://github.com/faressoft/terminalizer)  
+🦄 Record your terminal and generate animated gif images
+
+[wretch](https://github.com/elbywan/wretch)  
+A tiny wrapper built around fetch with an intuitive syntax. 🍬
+
+[grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch)  
+The Hitchiker's Guide to PyTorch
+
+[glances](https://github.com/nicolargo/glances)  
+Glances an Eye on your system. A top/htop alternative. http://nicolargo.github.io/glances/
+
+[grain](https://github.com/grain-lang/grain)  
+Compiler for Grain, the functional programming language. A modern web staple. 🌾 https://grain-lang.org/
+
+[taskbook](https://github.com/klauscfhq/taskbook)  
+📓 Tasks, boards & notes for the command-line habitat
+
+[toy](https://github.com/hugoam/toy)  
+the thin c++ game engine https://toyengine.io
+
+[rapidstring](https://github.com/boyerjohn/rapidstring)  
+Maybe the fastest string library ever. https://boyerjohn.github.io/rapidstring/
+
+[scilla](https://github.com/Zilliqa/scilla)  
+Scilla - A Smart Contract Intermediate Level Language https://scilla-lang.org
+
+[open-source-rover](https://github.com/nasa-jpl/open-source-rover)  
+A build-it-yourself, 6-wheel rover based on the rovers on Mars! https://opensourcerover.jpl.nasa.gov
+
+[filament](https://github.com/google/filament)  
+Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
+
+[lazygit](https://github.com/jesseduffield/lazygit)  
+Terminal UI for git!
+
+[julia](https://github.com/JuliaLang/julia)  
+The Julia Language: A fresh approach to technical computing. https://julialang.org/
+
+[graphqurl](https://github.com/hasura/graphqurl)  
+curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+
+[TinyEditor](https://github.com/umpox/TinyEditor)  
+A functional HTML/CSS/JS editor in less than 400 bytes
+
+[fiddle](https://github.com/electron/fiddle)  
+🚀 The easiest way to get started with Electron
+
+[Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World)  
+📡 Organized Resources for Deep Learning Researchers and Developers https://deep-learning-world.readthedo…
+
+[mkcert](https://github.com/FiloSottile/mkcert)  
+A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+[graphpipe](https://github.com/oracle/graphpipe)  
+Machine Learning Model Deployment Made Simple https://oracle.github.io/graphpipe
+
+[TransmogrifAI](https://github.com/salesforce/TransmogrifAI)  
+TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Spark with minimal hand tuning https://transmogrif.ai
+
+[9cc](https://github.com/rui314/9cc)  
+A Small C Compiler
+
+[puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)  
+Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script. https://checklyhq.com
+
+[navaid](https://github.com/lukeed/navaid)  
+A navigation aid (aka, router) for the browser in 850 bytes~!
+
+[windows95](https://github.com/felixrieseberg/windows95)  
+This is Windows 95, running in an Electron app. Yes, it's the full thing. I'm sorry.
+
+[JSCPP](https://github.com/felixhao28/JSCPP)  
+Pack JS code fast & easy http://fastpack.io
+
+[dopamine](https://github.com/google/dopamine)  
+Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine
+
+[litetree](https://github.com/aergoio/litetree)  
+SQLite with Branches
+
+[lerna](https://github.com/lerna/lerna)  
+🐉 A tool for managing JavaScript projects with multiple packages. https://lernajs.io
+
+[ailab](https://github.com/Microsoft/ailab)  
+Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+
+[pwa](https://github.com/lukeed/pwa)  
+Universal PWA Builder https://pwa.cafe
+
 ## 2018-08-12
 
 [attrs](https://github.com/python-attrs/attrs)
