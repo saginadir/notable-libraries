@@ -1,5 +1,61 @@
 # notable-libraries
-A repo that only lists notable libraries that were trending by day.
+A repo that only lists notable libraries
+
+## 2018-10-15
+
+[zeu](https://github.com/shzlw/zeu)  
+A JavaScript library for real-time visualization
+
+[tink](https://github.com/google/tink)  
+Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+
+[ky](https://github.com/sindresorhus/ky)  
+Tiny and elegant HTTP client based on the browser Fetch API
+
+[microjob](https://github.com/wilk/microjob)  
+A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. 
+
+[sqorn](https://github.com/lusakasa/sqorn)  
+A Javascript library for building SQL queries
+
+[scenic](https://github.com/boydm/scenic)  
+Scenic is a client application library written directly on the Elixir/Erlang/OTP stack. With it you can build applications that operate identically across all supported operating systems, including MacOS, Ubuntu, Nerves/Linux, and more.
+
+[smenu](https://github.com/p-gen/smenu)  
+Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor. Once done, your selection will be sent to standard output. 
+
+[open-match](https://github.com/GoogleCloudPlatform/open-match)  
+Flexible, extensible, and scalable video game matchmaking.
+
+[nni](https://github.com/Microsoft/nni)  
+An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.
+
+[pwc](https://github.com/zziz/pwc)  
+Papers with code. Sorted by stars. Updated weekly.
+
+[math-as-code](https://github.com/Jam3/math-as-code)  
+This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
+
+[vnote](https://github.com/tamlok/vnote)  
+A Vim-inspired note-taking application that knows programmers and Markdown better. 
+
+[pypeln](https://github.com/cgarciae/pypeln)  
+Concurrent data pipelines made easy
+
+[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)  
+Google Chromium, sans integration with Google
+
+[meshbird](https://github.com/meshbird/meshbird)  
+Distributed private networking
+
+[MS-DOS](https://github.com/Microsoft/MS-DOS)  
+The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+
+[solid](https://github.com/solid/solid)  
+Solid - Re-decentralizing the web (project directory) 
+
+[fastai](https://github.com/fastai/fastai)  
+The fastai deep learning library, plus lessons and and tutorials 
 
 ## 2018-09-02
 
